@@ -33,7 +33,7 @@ deployed on mainnet. The NU -> T vending machine contract address is https://eth
 
 .. important::
 
-    The vending machine contract uses a static conversion ratios and remain available indefinitely, so
+    The vending machine contract uses a static conversion ratios and remains available indefinitely, so
     please be safe, take your time, and confirm everything!
 
 
